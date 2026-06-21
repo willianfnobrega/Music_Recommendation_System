@@ -8,3 +8,5 @@ The users can search for songs based on the name of one of the songs in the fold
 
 # Requirements
 Please download the libraries and dependencies in the requirements.txt file.
+
+The folder with the lyrics downloaded are ziped. Before running this, unzip the folder.
